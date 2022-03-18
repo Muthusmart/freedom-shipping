@@ -5945,6 +5945,7 @@ select:visited {
 
   #rev_slider_29_1_wrapper .tparrows {
     display: none;
+    
   }
 
   .ft-case-study-items .ft-case-study-text {
@@ -7100,5 +7101,10 @@ select:visited {
   .ft-blog-post-feed-innerbox .ft-blog-post-feed-text-wrapper .blog-meta a {
     margin-right: 15px;
   }
+
+}
+.dei{
+    display: flex;
+
 }
 /*---------------------------------------------------- */
